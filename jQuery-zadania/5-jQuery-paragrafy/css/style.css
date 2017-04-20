@@ -1,0 +1,47 @@
+body {
+	font-size: 34px;
+	font-family: "Lato";
+	font-weight: 700;
+	margin: 0;
+	background-color: #FFA500;
+}
+
+#container {
+	position: relative;
+	top: 50vh;
+	width: 300px;
+	text-align: center;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+	background-color: #fff;
+}
+
+.button {
+	font-size: 21px;
+	color: #fff;
+	text-transform: uppercase;
+	padding: 20px;
+	font-family: 'Lato';
+	cursor: pointer;
+	margin: 20px 0;
+	font-family: "Lato";
+	width: 200px;
+	height: 100px;
+	background-color: #FFA500;
+	border: none;
+	outline: none;
+	-webkit-box-shadow: 0px 5px 10px 2px #bbb;
+	-moz-box-shadow: 0px 5px 10px 2px #bbb;
+	box-shadow: 0px 5px 10px 2px #bbb;
+}
+
+p {
+	text-align: center;
+	margin: 20px 0;
+	width: 100%;
+	color: #FFA500;
+	background-color: #fff;
+	text-shadow: 1px 1px #bbb;
+
+}
